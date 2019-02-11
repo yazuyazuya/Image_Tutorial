@@ -14,6 +14,7 @@
 		099731C8221141D500B4EAAA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 099731C6221141D500B4EAAA /* LaunchScreen.storyboard */; };
 		099731D3221141D500B4EAAA /* Image_TutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099731D2221141D500B4EAAA /* Image_TutorialTests.swift */; };
 		099731DE221141D500B4EAAA /* Image_TutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099731DD221141D500B4EAAA /* Image_TutorialUITests.swift */; };
+		099731EC221141EB00B4EAAA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 099731EB221141EB00B4EAAA /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		099731D9221141D500B4EAAA /* Image_TutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Image_TutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		099731DD221141D500B4EAAA /* Image_TutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image_TutorialUITests.swift; sourceTree = "<group>"; };
 		099731DF221141D500B4EAAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		099731EB221141EB00B4EAAA /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				099731BF221141D500B4EAAA /* ViewController.swift */,
 				099731C1221141D500B4EAAA /* Main.storyboard */,
 				099731C4221141D500B4EAAA /* Assets.xcassets */,
+				099731EB221141EB00B4EAAA /* Images.xcassets */,
 				099731C6221141D500B4EAAA /* LaunchScreen.storyboard */,
 				099731C9221141D500B4EAAA /* Info.plist */,
 			);
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				099731C8221141D500B4EAAA /* LaunchScreen.storyboard in Resources */,
+				099731EC221141EB00B4EAAA /* Images.xcassets in Resources */,
 				099731C5221141D500B4EAAA /* Assets.xcassets in Resources */,
 				099731C3221141D500B4EAAA /* Main.storyboard in Resources */,
 			);
