@@ -19,13 +19,13 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" pagingEnabled="YES" translatesAutoresizingMaskIntoConstraints="NO" id="gi3-ne-VqH">
-                                <rect key="frame" x="0.0" y="28" width="375" height="639"/>
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                             </scrollView>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstAttribute="trailing" secondItem="gi3-ne-VqH" secondAttribute="trailing" id="F4P-Uc-N2c"/>
-                            <constraint firstItem="gi3-ne-VqH" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="8" id="Pzu-Ld-izi"/>
+                            <constraint firstItem="gi3-ne-VqH" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="-20" id="Pzu-Ld-izi"/>
                             <constraint firstItem="gi3-ne-VqH" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="hJW-y7-WWf"/>
                             <constraint firstItem="gi3-ne-VqH" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="vhY-hD-ZgG"/>
                         </constraints>
