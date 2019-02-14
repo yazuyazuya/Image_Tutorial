@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     // ScrollScreenの幅
     var scrollScreenWidth: CGFloat!
     
-    let img:[String] = ["image1", "image2", "image3", "image4"]
+    let img:[String] = ["tutorial_1", "tutorial_2", "tutorial_3", "tutorial_4"]
     // Totalのページ数
     var pageNum: Int!
     
